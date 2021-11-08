@@ -1,0 +1,331 @@
+Ürün Adı,Fiyat,Çekirdek,Temel Frekans,Çıkış Yılı,Teknik Puan,Link
+Intel Core i7-2600,1100.41,4 ,3.4 GHz,2011 ,23.0,https://www.epey.com/islemci/intel-core-i7-2600.html
+Intel Core i5-4590,776.0,4 ,3.3 GHz,2014 ,22.0,https://www.epey.com/islemci/intel-core-i5-4590.html
+Intel Core i5-4670,1314.56,4 ,3.4 GHz,2013 ,22.0,https://www.epey.com/islemci/intel-core-i5-4670.html
+Intel Core i5-3470,480.0,4 ,3.2 GHz,2012 ,22.0,https://www.epey.com/islemci/intel-core-i5-3470.html
+Intel Core i5-4460,773.83,4 ,3.2 GHz,2014 ,22.0,https://www.epey.com/islemci/intel-core-i5-4460.html
+Intel Core i5-4440,1254.49,4 ,3.1 GHz,2013 ,21.0,https://www.epey.com/islemci/intel-core-i5-4440.html
+Intel Core i3-8100,2310.87,4 ,3.6 GHz,2017 ,21.0,https://www.epey.com/islemci/intel-core-i3-8100.html
+AMD Athlon 3000G,671.77,2 ,3.5 GHz,2019 ,20.0,https://www.epey.com/islemci/amd-athlon-3000g.html
+AMD A6-7480,679.5,2 ,3.5 GHz,2019 ,20.0,https://www.epey.com/islemci/amd-a6-7480.html
+Intel Core i5-2400,399.0,4 ,3.1 GHz,2011 ,20.0,https://www.epey.com/islemci/intel-core-i5-2400.html
+Intel Core i7-860,799.0,4 ,2.8 GHz,2009 ,20.0,https://www.epey.com/islemci/intel-core-i7-860.html
+AMD A4-6300,530.74,2 ,3.7 GHz,2013 ,20.0,https://www.epey.com/islemci/amd-a4-6300.html
+Intel Core i7-950,772.44,4 ,3.06 GHz,2009 ,20.0,https://www.epey.com/islemci/intel-core-i7-950.html
+Intel Core i5-2300,491.03,4 ,2.8 GHz,2011 ,19.0,https://www.epey.com/islemci/intel-core-i5-2300.html
+Intel Core i3-7100,1359.0,2 ,3.9 GHz,2017 ,19.0,https://www.epey.com/islemci/intel-core-i3-7100.html
+Intel Pentium Gold G6400,717.01,2 ,4 GHz,2020 ,19.0,https://www.epey.com/islemci/intel-pentium-gold-g6400.html
+Intel Core i5-650,308.16,2 ,3.2 GHz,2010 ,19.0,https://www.epey.com/islemci/intel-core-i5-650.html
+Intel Core i5-760,342.72,4 ,2.8 GHz,2010 ,19.0,https://www.epey.com/islemci/intel-core-i5-760.html
+Intel Core i3-6100,1489.0,2 ,3.7 GHz,2015 ,18.0,https://www.epey.com/islemci/intel-core-i3-6100.html
+Intel Celeron G5905,619.0,2 ,3.5 GHz,2020 ,18.0,https://www.epey.com/islemci/intel-celeron-g5905.html
+Intel Celeron G4930,1059.99,2 ,3.2 GHz,2019 ,18.0,https://www.epey.com/islemci/intel-celeron-g4930.html
+AMD A4-4000,519.0,2 ,3 GHz,2013 ,17.0,https://www.epey.com/islemci/amd-a4-4000.html
+Intel Celeron G3930,1159.9,2 ,2.9 GHz,2017 ,17.0,https://www.epey.com/islemci/intel-celeron-g3930.html
+Intel Pentium G4400,1059.0,2 ,3.3 GHz,2015 ,16.0,https://www.epey.com/islemci/intel-pentium-g4400.html
+Intel Core i3-4170,485.0,2 ,3.7 GHz,2015 ,16.0,https://www.epey.com/islemci/intel-core-i3-4170.html
+Intel Core i3-4160,599.0,2 ,3.6 GHz,2014 ,16.0,https://www.epey.com/islemci/intel-core-i3-4160.html
+Intel Core 2 Quad Q9550,359.0,4 ,2.83 GHz,2008 ,16.0,https://www.epey.com/islemci/intel-core-2-quad-q9550.html
+Intel Core i3-4130,964.99,2 ,3.4 GHz,2013 ,15.0,https://www.epey.com/islemci/intel-core-i3-4130.html
+Intel Core i3-3220,479.0,2 ,3.3 GHz,2012 ,15.0,https://www.epey.com/islemci/intel-core-i3-3220.html
+Intel Pentium G3260,392.37,2 ,3.3 GHz,2015 ,15.0,https://www.epey.com/islemci/intel-pentium-g3260.html
+Intel Core i3-2120,167.04,2 ,3.3 GHz,2011 ,15.0,https://www.epey.com/islemci/intel-core-i3-2120.html
+AMD Ryzen 7 1700X,2749.0,8 ,3.4 GHz,2017 ,33.0,https://www.epey.com/islemci/amd-ryzen-7-1700x.html
+AMD Ryzen 5 3500,1825.12,6 ,3.6 GHz,2019 ,33.0,https://www.epey.com/islemci/amd-ryzen-5-3500.html
+Intel Core i7-8700K,4983.64,6 ,3.7 GHz,2017 ,33.0,https://www.epey.com/islemci/intel-core-i7-8700k.html
+Intel Core i5-11600,2449.0,6 ,2.8 GHz,2021 ,33.0,https://www.epey.com/islemci/intel-core-i5-11600.html
+AMD Ryzen 5 2600X,2247.99,6 ,3.6 GHz,2018 ,33.0,https://www.epey.com/islemci/amd-ryzen-5-2600x.html
+Intel Core i5-11500,2199.0,6 ,2.7 GHz,2021 ,32.0,https://www.epey.com/islemci/intel-core-i5-11500.html
+Intel Core i5-11400F,2009.0,6 ,2.6 GHz,2021 ,32.0,https://www.epey.com/islemci/intel-core-i5-11400f.html
+Intel Core i7-9700F,3452.26,8 ,3 GHz,2019 ,32.0,https://www.epey.com/islemci/intel-core-i7-9700f.html
+Intel Core i5-11400,2089.0,6 ,2.6 GHz,2021 ,32.0,https://www.epey.com/islemci/intel-core-i5-11400.html
+AMD Ryzen 5 2600,1717.29,6 ,3.4 GHz,2018 ,32.0,https://www.epey.com/islemci/amd-ryzen-5-2600.html
+Intel Core i7-9700,3304.62,8 ,3 GHz,2019 ,32.0,https://www.epey.com/islemci/intel-core-i7-9700.html
+AMD Ryzen 3 3100,1459.12,4 ,3.6 GHz,2020 ,32.0,https://www.epey.com/islemci/amd-ryzen-3-3100.html
+AMD Ryzen 5 1600X,2122.04,6 ,3.6 GHz,2017 ,32.0,https://www.epey.com/islemci/amd-ryzen-5-1600x.html
+Intel Core i5-9600KF,2015.99,6 ,3.7 GHz,2019 ,32.0,https://www.epey.com/islemci/intel-core-i5-9600kf.html
+AMD Ryzen 3 4300GE,2467.9,4 ,3.5 GHz,2020 ,31.0,https://www.epey.com/islemci/amd-ryzen-3-4300ge.html
+Intel Core i5-9600K,1797.2,6 ,3.7 GHz,2018 ,31.0,https://www.epey.com/islemci/intel-core-i5-9600k.html
+Intel Core i5-10600,2589.0,6 ,3.3 GHz,2020 ,31.0,https://www.epey.com/islemci/intel-core-i5-10600.html
+Intel Core i7-8700,2800.0,6 ,3.2 GHz,2017 ,31.0,https://www.epey.com/islemci/intel-core-i7-8700.html
+AMD Ryzen 5 1600 12nm,1097.89,6 ,3.2 GHz,2019 ,31.0,https://www.epey.com/islemci/amd-ryzen-5-1600-yd1600bbafbox.html
+Intel Core i5-10500,2069.0,6 ,3.1 GHz,2020 ,30.0,https://www.epey.com/islemci/intel-core-i5-10500.html
+AMD Ryzen 5 1600,1174.44,6 ,3.2 GHz,2017 ,30.0,https://www.epey.com/islemci/amd-ryzen-5-1600.html
+Intel Core i5-8600K,2501.27,6 ,3.6 GHz,2017 ,30.0,https://www.epey.com/islemci/intel-core-i5-8600k.html
+Intel Core i5-10400,1814.4,6 ,2.9 GHz,2020 ,30.0,https://www.epey.com/islemci/intel-core-i5-10400.html
+Intel Core i5-10400F,1499.52,6 ,2.9 GHz,2020 ,30.0,https://www.epey.com/islemci/intel-core-i5-10400f.html
+Intel Core i7-6800K,2327.85,6 ,3.4 GHz,2016 ,29.0,https://www.epey.com/islemci/intel-core-i7-6800k.html
+Intel Core i5-9500,1909.0,6 ,3 GHz,2019 ,29.0,https://www.epey.com/islemci/intel-core-i5-9500.html
+Intel Core i7-6700K,2885.35,4 ,4 GHz,2015 ,29.0,https://www.epey.com/islemci/intel-core-i7-6700k.html
+AMD Ryzen 5 Pro 1600,1129.99,6 ,3.2 GHz,2017 ,29.0,https://www.epey.com/islemci/amd-ryzen-5-pro-1600.html
+Intel Core i5-9400F,1664.35,6 ,2.9 GHz,2019 ,28.0,https://www.epey.com/islemci/intel-core-i5-9400f.html
+AMD Ryzen 3 3200G,2350.0,4 ,3.6 GHz,2019 ,28.0,https://www.epey.com/islemci/amd-ryzen-3-3200g.html
+Intel Core i5-8500,1894.28,6 ,3 GHz,2018 ,28.0,https://www.epey.com/islemci/intel-core-i5-8500.html
+AMD Ryzen 7 5800,,8 ,3.4 GHz,2021 ,41.0,https://www.epey.com/islemci/amd-ryzen-7-5800.html
+AMD Ryzen 7 Pro 3700,,8 ,3.6 GHz,2019 ,41.0,https://www.epey.com/islemci/amd-ryzen-7-pro-3700.html
+Intel Core i9-10900KA Avengers Edition,,10 ,3.7 GHz,2020 ,40.0,https://www.epey.com/islemci/intel-core-i9-10900ka-avengers-edition.html
+Intel Core i9-7920X,,12 ,2.9 GHz,2017 ,39.0,https://www.epey.com/islemci/intel-core-i9-7920x.html
+Intel Core i9-9900X,,10 ,3.5 GHz,2018 ,39.0,https://www.epey.com/islemci/intel-core-i9-9900x.html
+AMD Ryzen Threadripper 2920X,,12 ,3.5 GHz,2018 ,39.0,https://www.epey.com/islemci/amd-ryzen-threadripper-2920x.html
+Intel Core i9-9820X,,10 ,3.3 GHz,2018 ,38.0,https://www.epey.com/islemci/intel-core-i9-9820x.html
+AMD Ryzen 7 Pro 5750GE,,8 ,3.2 GHz,2021 ,38.0,https://www.epey.com/islemci/amd-ryzen-7-pro-5750ge.html
+Intel Core i9-7900X,,10 ,3.3 GHz,2017 ,38.0,https://www.epey.com/islemci/intel-core-i9-7900x.html
+AMD Ryzen 7 4700G,,8 ,3.6 GHz,2020 ,38.0,https://www.epey.com/islemci/amd-ryzen-7-4700g.html
+Intel Core i9-9900KS,,8 ,4 GHz,2018 ,37.0,https://www.epey.com/islemci/intel-core-i9-9900ks.html
+AMD Ryzen 5 5600GE,,6 ,3.4 GHz,2021 ,37.0,https://www.epey.com/islemci/amd-ryzen-5600ge.html
+Intel Core i9-10910,,10 ,3.6 GHz,2020 ,37.0,https://www.epey.com/islemci/intel-core-i9-10910.html
+Intel Core i7-9800X,,8 ,3.8 GHz,2018 ,36.0,https://www.epey.com/islemci/intel-core-i7-9800x.html
+Intel Core i7-7820X,,8 ,3.6 GHz,2017 ,36.0,https://www.epey.com/islemci/intel-core-i7-7820x.html
+AMD Ryzen 5 Pro 4650G,,6 ,3.7 GHz,2020 ,35.0,https://www.epey.com/islemci/amd-ryzen-5-pro-4650g.html
+AMD Ryzen 5 4600G,,6 ,3.7 GHz,2020 ,35.0,https://www.epey.com/islemci/amd-ryzen-5-4600g.html
+Intel Core i7-8086K,,6 ,4 GHz,2018 ,34.0,https://www.epey.com/islemci/intel-core-i7-8086k.html
+AMD Ryzen 7 1800X,,8 ,3.6 GHz,2017 ,34.0,https://www.epey.com/islemci/amd-ryzen-7-1800x.html
+AMD Ryzen 3 3300X,,4 ,3.8 GHz,2020 ,33.0,https://www.epey.com/islemci/amd-ryzen-3-3300x.html
+AMD Ryzen 7 2700E,,8 ,2.8 GHz,2019 ,33.0,https://www.epey.com/islemci/amd-ryzen-7-2700e.html
+Intel Core i7-6950X,,10 ,3 GHz,2016 ,33.0,https://www.epey.com/islemci/intel-core-i7-6950x.html
+AMD Ryzen 7 1700,,8 ,3 GHz,2017 ,32.0,https://www.epey.com/islemci/amd-ryzen-7-1700.html
+AMD Ryzen 3 Pro 4350G,,4 ,3.8 GHz,2020 ,31.0,https://www.epey.com/islemci/amd-ryzen-3-pro-4350g.html
+Intel Core i7-7800X,,6 ,3.5 GHz,2017 ,31.0,https://www.epey.com/islemci/intel-core-i7-7800x.html
+Intel Core i7-6900K,,8 ,3.2 GHz,2016 ,31.0,https://www.epey.com/islemci/intel-core-i7-6900k.html
+Intel Core i7-10700T,,8 ,2 GHz,2020 ,31.0,https://www.epey.com/islemci/intel-core-i7-10700t.html
+Intel Core i7-7740X,,4 ,4.3 GHz,2017 ,31.0,https://www.epey.com/islemci/intel-core-i7-7740x.html
+Intel Core i7-7700K,,4 ,4.2 GHz,2017 ,31.0,https://www.epey.com/islemci/intel-core-i7-7700k.html
+AMD Ryzen 3 Pro 4350GE,,4 ,3.5 GHz,2020 ,30.0,https://www.epey.com/islemci/amd-ryzen-3-pro-4350ge.html
+AMD Ryzen 5 Pro 3400G,,4 ,3.7 GHz,2019 ,30.0,https://www.epey.com/islemci/amd-ryzen-5-pro-3400g.html
+AMD Ryzen 5 3400G,,4 ,3.7 GHz,2019 ,30.0,https://www.epey.com/islemci/amd-ryzen-5-3400g.html
+Intel Core i5-9600,,6 ,3.1 GHz,2019 ,30.0,https://www.epey.com/islemci/intel-core-i5-9600.html
+Intel Core i7-5960X,,8 ,3 GHz,2014 ,30.0,https://www.epey.com/islemci/intel-core-i7-5960x.html
+Intel Core i7-9700T,,8 ,2 GHz,2019 ,30.0,https://www.epey.com/islemci/intel-core-i7-9700t.html
+Intel Core i7-6850K,,6 ,3.6 GHz,2016 ,29.0,https://www.epey.com/islemci/intel-core-i7-6850k.html
+AMD Ryzen 5 2500X,,4 ,3.6 GHz,2018 ,29.0,https://www.epey.com/islemci/amd-ryzen-5-2500x.html
+AMD Ryzen 5 2400G,,4 ,3.6 GHz,2018 ,29.0,https://www.epey.com/islemci/amd-ryzen-5-2400g.html
+AMD Ryzen 5 Pro 3400GE,,4 ,3.3 GHz,2019 ,29.0,https://www.epey.com/islemci/amd-ryzen-5-pro-3400ge.html
+AMD Ryzen 5 1500X,,4 ,3.5 GHz,2017 ,29.0,https://www.epey.com/islemci/amd-ryzen-5-1500x.html
+Intel Core i5-10600T,,6 ,2.4 GHz,2020 ,29.0,https://www.epey.com/islemci/intel-core-i5-10600t.html
+Intel Core i5-8600,,6 ,3.1 GHz,2018 ,29.0,https://www.epey.com/islemci/intel-core-i5-8600.html
+Intel Core i3-9350KF,,4 ,4 GHz,2019 ,29.0,https://www.epey.com/islemci/intel-core-i3-9350kf.html
+Intel Core i3-9350K,,4 ,4 GHz,2019 ,29.0,https://www.epey.com/islemci/intel-core-i3-9350k.html
+Intel Core i7-5930K,,6 ,3.5 GHz,2014 ,28.0,https://www.epey.com/islemci/intel-core-i7-5930k.html
+AMD Ryzen 3 Pro 3200G,,4 ,3.6 GHz,2019 ,28.0,https://www.epey.com/islemci/amd-ryzen-3-pro-3200g.html
+AMD Ryzen 3 2300X,,4 ,3.5 GHz,2018 ,28.0,https://www.epey.com/islemci/amd-ryzen-3-2300x.html
+Intel Core i5-7640X,,4 ,4 GHz,2017 ,28.0,https://www.epey.com/islemci/intel-core-i5-7640x.html
+Intel Xeon Silver 4208,,8 ,2.1 GHz,2019 ,28.0,https://www.epey.com/islemci/intel-xeon-silver-4208.html
+AMD Ryzen 3 Pro 3200GE,,4 ,3.3 GHz,2019 ,28.0,https://www.epey.com/islemci/amd-ryzen-3-pro-3200ge.html
+Intel Core i5-7600K,,4 ,3.8 GHz,2017 ,28.0,https://www.epey.com/islemci/intel-core-i5-7600k.html
+Intel Core i3-9320,,4 ,3.7 GHz,2019 ,28.0,https://www.epey.com/islemci/intel-core-i3-9320.html
+Intel Core i3-9300,,4 ,3.7 GHz,2019 ,28.0,https://www.epey.com/islemci/intel-core-i3-9300.html
+AMD FX-8350,,8 ,4 GHz,2012 ,28.0,https://www.epey.com/islemci/amd-fx-8350.html
+AMD Ryzen 5 Pro 3350GE,,4 ,3.3 GHz,2020 ,28.0,https://www.epey.com/islemci/amd-ryzen-5-pro-3350ge.html
+Intel Core i7-4790K,,4 ,4 GHz,2014 ,27.0,https://www.epey.com/islemci/intel-core-i7-4790k.html
+Intel Core i5-10400T,,6 ,2 GHz,2020 ,27.0,https://www.epey.com/islemci/intel-core-i5-10400t.html
+Intel Core i5-9500T,,6 ,2.2 GHz,2019 ,27.0,https://www.epey.com/islemci/intel-core-i5-9500t.html
+Intel Core i5-7600,,4 ,3.5 GHz,2017 ,26.0,https://www.epey.com/islemci/intel-core-i5-7600.html
+Intel Core i3-10100T,,4 ,3 GHz,2020 ,26.0,https://www.epey.com/islemci/intel-core-i3-10100t.html
+Intel Core i3-9300T,,4 ,3.2 GHz,2019 ,26.0,https://www.epey.com/islemci/intel-core-i3-9300t.html
+AMD FX-6350,,6 ,3.9 GHz,2013 ,26.0,https://www.epey.com/islemci/amd-fx-6350.html
+Intel Core i3-3225,510.48,2 ,3.3 GHz,2012 ,14.0,https://www.epey.com/islemci/intel-core-i3-3225.html
+Intel Pentium G3220,245.0,2 ,3 GHz,2013 ,14.0,https://www.epey.com/islemci/intel-pentium-g3220.html
+Intel Pentium G2120,299.0,2 ,3.1 GHz,2012 ,14.0,https://www.epey.com/islemci/intel-pentium-g2120.html
+Intel Core i3-2100,204.9,2 ,3.1 GHz,2013 ,14.0,https://www.epey.com/islemci/intel-core-i3-2100.html
+Intel Pentium G2030,112.2,2 ,3 GHz,2013 ,14.0,https://www.epey.com/islemci/intel-pentium-g2030.html
+Intel Core 2 Quad Q9400,209.0,4 ,2.66 GHz,2008 ,14.0,https://www.epey.com/islemci/intel-core-2-quad-q9400.html
+Intel Core i3-540,139.9,2 ,3.06 GHz,2010 ,14.0,https://www.epey.com/islemci/intel-core-i3-540.html
+Intel Pentium G2020,471.88,2 ,2.9 GHz,2013 ,14.0,https://www.epey.com/islemci/intel-pentium-g2020.html
+Intel Pentium G645,319.99,2 ,2.9 GHz,2013 ,13.0,https://www.epey.com/islemci/intel-pentium-g645.html
+Intel Celeron G1610,45.33,2 ,2.6 GHz,2013 ,13.0,https://www.epey.com/islemci/intel-celeron-g1610.html
+Intel Pentium G840,80.0,2 ,2.8 GHz,2011 ,13.0,https://www.epey.com/islemci/intel-pentium-g840.html
+Intel Pentium G630,366.69,2 ,2.7 GHz,2011 ,12.0,https://www.epey.com/islemci/intel-pentium-g630.html
+AMD Phenom II X4 955 (125W),319.99,4 ,3.2 GHz,2009 ,12.0,https://www.epey.com/islemci/amd-phenom-ii-x4-955-125w.html
+Intel Pentium G620,366.69,2 ,2.6 GHz,2011 ,12.0,https://www.epey.com/islemci/intel-pentium-g620.html
+Intel Pentium E6500,260.0,2 ,2.93 GHz,2008 ,12.0,https://www.epey.com/islemci/intel-pentium-e6500.html
+Intel Core i9-12900KF,8009.19,16 ,3.2 GHz,2021 ,,https://www.epey.com/islemci/intel-core-i9-12900kf.html
+AMD Ryzen Threadripper 3990X,,64 ,2.9 GHz,2020 ,98.0,https://www.epey.com/islemci/amd-ryzen-threadripper-3990x.html
+AMD Ryzen Threadripper 2990WX,,32 ,3 GHz,2018 ,53.0,https://www.epey.com/islemci/amd-ryzen-threadripper-2990wx.html
+AMD Ryzen 9 3950X,,16 ,3.5 GHz,2019 ,49.0,https://www.epey.com/islemci/amd-ryzen-9-3950x.html
+AMD Ryzen 9 5900,,12 ,3 GHz,2021 ,47.0,https://www.epey.com/islemci/amd-ryzen-9-5900.html
+AMD Ryzen Threadripper 2970WX,,24 ,3 GHz,2018 ,47.0,https://www.epey.com/islemci/amd-ryzen-threadripper-2970wx.html
+Intel Core i9-9980XE,,18 ,3 GHz,2018 ,47.0,https://www.epey.com/islemci/intel-core-i9-9980xe.html
+AMD Ryzen 9 Pro 3900,,12 ,3.1 GHz,2019 ,46.0,https://www.epey.com/islemci/amd-ryzen-9-pro-3900.html
+Intel Core i9-9960X,,16 ,3.1 GHz,2018 ,45.0,https://www.epey.com/islemci/intel-core-i9-9960x.html
+Intel Core i9-7980XE,,18 ,2.6 GHz,2017 ,44.0,https://www.epey.com/islemci/intel-core-i9-7980xe.html
+AMD Ryzen Threadripper 2950X,,16 ,3.5 GHz,2018 ,44.0,https://www.epey.com/islemci/amd-ryzen-threadripper-2950x.html
+Intel Core i9-9940X,,14 ,3.3 GHz,2018 ,43.0,https://www.epey.com/islemci/intel-core-i9-9940x.html
+AMD Ryzen Threadripper 1950X,,16 ,3.4 GHz,2017 ,43.0,https://www.epey.com/islemci/amd-ryzen-threadripper-1950x.html
+Intel Core i9-7960X,,16 ,2.8 GHz,2017 ,43.0,https://www.epey.com/islemci/intel-core-i9-7960x.html
+Intel Core i9-9920X,,12 ,3.5 GHz,2018 ,42.0,https://www.epey.com/islemci/intel-core-i9-9920x.html
+Intel Core i9-7940X,,14 ,3.1 GHz,2017 ,41.0,https://www.epey.com/islemci/intel-core-i9-7940x.html
+Intel Core i5-9500F,2154.24,6 ,3 GHz,2019 ,28.0,https://www.epey.com/islemci/intel-core-i5-9500f.html
+AMD Ryzen 5 Pro 3350G,1736.3,4 ,3.6 GHz,2020 ,28.0,https://www.epey.com/islemci/amd-ryzen-5-pro-3350g.html
+AMD FX-9590,2839.8,8 ,4.7 GHz,2013 ,28.0,https://www.epey.com/islemci/amd-fx-9590.html
+Intel Core i5-9400,1924.79,6 ,2.9 GHz,2019 ,28.0,https://www.epey.com/islemci/intel-core-i5-9400.html
+Intel Core i3-10105F,911.04,4 ,3.7 GHz,2021 ,28.0,https://www.epey.com/islemci/intel-core-i3-10105f.html
+Intel Core i7-7700,2769.0,4 ,3.6 GHz,2017 ,28.0,https://www.epey.com/islemci/intel-core-i7-7700.html
+Intel Core i3-10100,1362.55,4 ,3.6 GHz,2020 ,28.0,https://www.epey.com/islemci/intel-core-i3-10100.html
+Intel Core i5-10500T,2724.69,6 ,2.3 GHz,2020 ,28.0,https://www.epey.com/islemci/intel-core-i5-10500t.html
+Intel Core i5-8400,2350.0,6 ,2.8 GHz,2017 ,28.0,https://www.epey.com/islemci/intel-core-i5-8400.html
+Intel Core i3-10100F,884.16,4 ,3.6 GHz,2020 ,28.0,https://www.epey.com/islemci/intel-core-i3-10100f.html
+AMD FX-9370,2999.0,8 ,4.4 GHz,2013 ,28.0,https://www.epey.com/islemci/amd-fx-9370.html
+AMD Ryzen 5 1400,1707.0,4 ,3.2 GHz,2017 ,27.0,https://www.epey.com/islemci/amd-ryzen-5-1400.html
+AMD Ryzen 3 1300X,1334.88,4 ,3.5 GHz,2017 ,27.0,https://www.epey.com/islemci/amd-ryzen-3-1300x.html
+AMD Ryzen 3 2200G,1543.81,4 ,3.5 GHz,2018 ,27.0,https://www.epey.com/islemci/amd-ryzen-3-2200g.html
+Intel Core i3-9100,1712.9,4 ,3.6 GHz,2019 ,27.0,https://www.epey.com/islemci/intel-core-i3-9100.html
+Intel Core i7-6700,2113.35,4 ,3.4 GHz,2015 ,27.0,https://www.epey.com/islemci/intel-core-i7-6700.html
+Intel Core i7-7700T,2670.0,4 ,2.9 GHz,2017 ,26.0,https://www.epey.com/islemci/intel-core-i7-7700t.html
+AMD Ryzen 3 1200 12nm,798.71,4 ,3.1 GHz,2020 ,26.0,https://www.epey.com/islemci/amd-ryzen-3-1200-12nm.html
+Intel Core i5-6600K,2222.43,4 ,3.5 GHz,2015 ,26.0,https://www.epey.com/islemci/intel-core-i5-6600k.html
+Intel Core i3-9100F,1233.79,4 ,3.6 GHz,2019 ,26.0,https://www.epey.com/islemci/intel-core-i3-9100f.html
+Intel Core i5-8500T,1788.99,6 ,2.1 GHz,2018 ,26.0,https://www.epey.com/islemci/intel-core-i5-8500t.html
+AMD Ryzen 3 1200,799.0,4 ,3.1 GHz,2017 ,26.0,https://www.epey.com/islemci/amd-ryzen-3-1200.html
+Intel Core i5-7500,2010.55,4 ,3.4 GHz,2017 ,26.0,https://www.epey.com/islemci/intel-core-i5-7500.html
+Intel Core i5-6600,1659.0,4 ,3.3 GHz,2015 ,25.0,https://www.epey.com/islemci/intel-core-i5-6600.html
+Intel Core i7-3820,1512.0,4 ,3.6 GHz,2012 ,25.0,https://www.epey.com/islemci/intel-core-i7-3820.html
+Intel Core i5-7400,2122.04,4 ,3 GHz,2017 ,24.0,https://www.epey.com/islemci/intel-core-i5-7400.html
+Intel Core i7-3770,1309.0,4 ,3.4 GHz,2012 ,24.0,https://www.epey.com/islemci/intel-core-i7-3770.html
+Intel Core i5-6500,1759.0,4 ,3.2 GHz,2015 ,24.0,https://www.epey.com/islemci/intel-core-i5-6500.html
+AMD A8-9600,767.22,4 ,3.1 GHz,2017 ,23.0,https://www.epey.com/islemci/amd-a8-9600.html
+Intel Core i5-6400,1459.0,4 ,2.7 GHz,2015 ,23.0,https://www.epey.com/islemci/intel-core-i5-6400.html
+AMD A10-7700K,1410.0,4 ,3.4 GHz,2014 ,23.0,https://www.epey.com/islemci/amd-a10-7700k.html
+AMD Ryzen 5 3600XT,3379.3,6 ,3.8 GHz,2020 ,37.0,https://www.epey.com/islemci/amd-ryzen-5-3600xt.html
+AMD Ryzen Threadripper 1920X,4706.3,12 ,3.5 GHz,2017 ,37.0,https://www.epey.com/islemci/amd-ryzen-threadripper-1920x.html
+AMD Ryzen 5 5600G,2659.05,6 ,3.9 GHz,2021 ,37.0,https://www.epey.com/islemci/amd-ryzen-5600g.html
+AMD Ryzen 5 3600X,2369.99,6 ,3.8 GHz,2019 ,37.0,https://www.epey.com/islemci/amd-ryzen-5-3600x.html
+Intel Core i9-10900,4139.99,10 ,2.8 GHz,2020 ,37.0,https://www.epey.com/islemci/intel-core-i9-10900.html
+Intel Core i9-10900F,4422.82,10 ,2.8 GHz,2020 ,37.0,https://www.epey.com/islemci/intel-core-i9-10900f.html
+Intel Core i7-10700KF,3595.4,8 ,3.8 GHz,2020 ,37.0,https://www.epey.com/islemci/intel-core-i7-10700kf.html
+Intel Core i7-10700KA Avengers Edition,3600.63,8 ,3.8 GHz,2020 ,37.0,https://www.epey.com/islemci/intel-core-i7-10700ka-avengers-edition.html
+AMD Ryzen 5 3600,2099.0,6 ,3.6 GHz,2019 ,36.0,https://www.epey.com/islemci/amd-ryzen-5-3600.html
+Intel Core i9-9900KF,3839.99,8 ,3.6 GHz,2019 ,36.0,https://www.epey.com/islemci/intel-core-i9-9900kf.html
+AMD Ryzen 5 Pro 5650G,2679.0,6 ,3.9 GHz,2021 ,36.0,https://www.epey.com/islemci/amd-ryzen-5-pro-5650g.html
+Intel Core i9-9900K,4609.0,8 ,3.6 GHz,2018 ,36.0,https://www.epey.com/islemci/intel-core-i9-9900k.html
+Intel Core i9-11900,4511.04,8 ,2.5 GHz,2021 ,36.0,https://www.epey.com/islemci/intel-core-i9-11900.html
+AMD Ryzen 7 Pro 4750GE,3851.62,8 ,3.1 GHz,2020 ,36.0,https://www.epey.com/islemci/amd-ryzen-7-pro-4750ge.html
+Intel Core i9-9900,4347.14,8 ,3.6 GHz,2018 ,36.0,https://www.epey.com/islemci/intel-core-i9-9900.html
+Intel Core i5-11600KF,3132.0,6 ,3.9 GHz,2021 ,36.0,https://www.epey.com/islemci/intel-core-i5-11600kf.html
+Intel Core i5-11600K,2877.12,6 ,3.9 GHz,2021 ,36.0,https://www.epey.com/islemci/intel-core-i5-11600k.html
+AMD Ryzen 5 Pro 5650GE,2679.0,6 ,3.4 GHz,2021 ,35.0,https://www.epey.com/islemci/amd-ryzen-5-pro-5650ge.html
+Intel Core i7-11700F,3579.0,8 ,2.5 GHz,2021 ,35.0,https://www.epey.com/islemci/intel-core-i7-11700f.html
+AMD Ryzen 7 2700X,3424.78,8 ,3.7 GHz,2018 ,35.0,https://www.epey.com/islemci/amd-ryzen-7-2700x.html
+Intel Core i7-11700,3617.78,8 ,2.5 GHz,2021 ,35.0,https://www.epey.com/islemci/intel-core-i7-11700.html
+AMD Ryzen 5 3500X,1789.94,6 ,3.6 GHz,2019 ,35.0,https://www.epey.com/islemci/amd-ryzen-5-3500x.html
+AMD Ryzen 7 2700,1914.83,8 ,3.2 GHz,2018 ,34.0,https://www.epey.com/islemci/amd-ryzen-7-2700.html
+Intel Core i7-10700,3769.99,8 ,2.9 GHz,2020 ,34.0,https://www.epey.com/islemci/intel-core-i7-10700.html
+Intel Core i7-10700F,3404.7,8 ,2.9 GHz,2020 ,34.0,https://www.epey.com/islemci/intel-core-i7-10700f.html
+AMD Ryzen Threadripper 1900X,1799.0,8 ,3.8 GHz,2017 ,34.0,https://www.epey.com/islemci/amd-ryzen-threadripper-1900x.html
+Intel Core i7-9700KF,3419.0,8 ,3.6 GHz,2019 ,33.0,https://www.epey.com/islemci/intel-core-i7-9700kf.html
+Intel Core i5-10600KA Avengers Edition,2921.2,6 ,4.1 GHz,2020 ,33.0,https://www.epey.com/islemci/intel-core-i5-10600ka-avengers-edition.html
+Intel Core i5-10600K,2621.76,6 ,4.1 GHz,2020 ,33.0,https://www.epey.com/islemci/intel-core-i5-10600k.html
+Intel Core i5-10600KF,2355.56,6 ,4.1 GHz,2020 ,33.0,https://www.epey.com/islemci/intel-core-i5-10600kf.html
+Intel Core i7-9700K,3360.0,8 ,3.6 GHz,2018 ,33.0,https://www.epey.com/islemci/intel-core-i7-9700k.html
+AMD Ryzen Threadripper Pro 3995WX,66755.8,64 ,2.7 GHz,2020 ,100.0,https://www.epey.com/islemci/amd-ryzen-threadripper-pro-3995wx.html
+AMD Ryzen Threadripper 3970X,21410.23,32 ,3.7 GHz,2019 ,72.0,https://www.epey.com/islemci/amd-ryzen-threadripper-3970x.html
+AMD Ryzen Threadripper Pro 3975WX,32586.31,32 ,3.5 GHz,2020 ,70.0,https://www.epey.com/islemci/amd-ryzen-threadripper-pro-3975wx.html
+AMD Ryzen Threadripper 3960X,14958.94,24 ,3.8 GHz,2019 ,64.0,https://www.epey.com/islemci/amd-ryzen-threadripper-3960x.html
+AMD Ryzen 9 5950X,7599.0,16 ,3.4 GHz,2020 ,54.0,https://www.epey.com/islemci/amd-ryzen-9-5950x.html
+AMD Ryzen Threadripper Pro 3955WX,12920.16,16 ,3.9 GHz,2020 ,51.0,https://www.epey.com/islemci/amd-ryzen-threadripper-pro-3955wx.html
+AMD Ryzen 9 5900X,5499.0,12 ,3.7 GHz,2020 ,49.0,https://www.epey.com/islemci/amd-ryzen-9-5900x.html
+AMD Ryzen 9 3900XT,8299.0,12 ,3.8 GHz,2020 ,48.0,https://www.epey.com/islemci/amd-ryzen-9-3900xt.html
+Intel Core i9-10980XE,12539.0,18 ,3 GHz,2019 ,47.0,https://www.epey.com/islemci/intel-core-i9-10980xe.html
+AMD Ryzen 9 3900X,5361.96,12 ,3.8 GHz,2019 ,46.0,https://www.epey.com/islemci/amd-ryzen-9-3900x.html
+Intel Core i9-10940X,9516.16,14 ,3.3 GHz,2019 ,44.0,https://www.epey.com/islemci/intel-core-i9-10940x.html
+AMD Ryzen 7 5800X,4266.24,8 ,3.8 GHz,2020 ,42.0,https://www.epey.com/islemci/amd-ryzen-7-5800x.html
+Intel Core i9-10920X,8214.1,12 ,3.5 GHz,2019 ,42.0,https://www.epey.com/islemci/intel-core-i9-10920x.html
+AMD Ryzen 7 3800X,3149.0,8 ,3.9 GHz,2019 ,41.0,https://www.epey.com/islemci/amd-ryzen-7-3800x.html
+AMD Ryzen 7 3800XT,4203.07,8 ,3.9 GHz,2020 ,41.0,https://www.epey.com/islemci/amd-ryzen-7-3800xt.html
+AMD Ryzen 7 5700G,3649.0,8 ,3.8 GHz,2021 ,40.0,https://www.epey.com/islemci/amd-ryzen-7-5700g.html
+Intel Core i9-10900K,5737.41,10 ,3.7 GHz,2020 ,40.0,https://www.epey.com/islemci/intel-core-i9-10900k.html
+AMD Ryzen 7 3700X,3045.95,8 ,3.6 GHz,2019 ,40.0,https://www.epey.com/islemci/amd-ryzen-7-3700x.html
+AMD Ryzen 7 Pro 5750G,3878.0,8 ,3.8 GHz,2021 ,39.0,https://www.epey.com/islemci/amd-ryzen-7-pro-5750g.html
+Intel Core i9-10900KF,5340.9,10 ,3.7 GHz,2020 ,39.0,https://www.epey.com/islemci/intel-core-i9-10900kf.html
+Intel Core i9-11900K,6149.0,8 ,3.5 GHz,2021 ,39.0,https://www.epey.com/islemci/intel-core-i9-11900k.html
+Intel Core i9-11900KF,5954.22,8 ,3.5 GHz,2021 ,39.0,https://www.epey.com/islemci/intel-core-i9-11900kf.html
+Intel Core i9-10900X,7188.94,10 ,3.7 GHz,2019 ,39.0,https://www.epey.com/islemci/intel-core-i9-10900x.html
+Intel Core i9-10850KA Avengers Edition,4639.0,10 ,3.6 GHz,2020 ,39.0,https://www.epey.com/islemci/intel-core-i9-10850ka-avengers-edition.html
+Intel Core i9-10850K,5591.0,10 ,3.6 GHz,2020 ,39.0,https://www.epey.com/islemci/intel-core-i9-10850k.html
+Intel Core i7-11700K,4339.0,8 ,3.6 GHz,2021 ,39.0,https://www.epey.com/islemci/intel-core-i7-11700k.html
+AMD Ryzen 5 5600X,3120.0,6 ,3.7 GHz,2020 ,39.0,https://www.epey.com/islemci/amd-ryzen-5-5600x.html
+AMD Ryzen 7 Pro 4750G,3265.08,8 ,3.6 GHz,2020 ,38.0,https://www.epey.com/islemci/amd-ryzen-7-pro-4750g.html
+Intel Core i7-11700KF,4580.94,8 ,3.6 GHz,2021 ,38.0,https://www.epey.com/islemci/intel-core-i7-11700kf.html
+Intel Core i9-11900F,4199.0,8 ,2.5 GHz,2021 ,38.0,https://www.epey.com/islemci/intel-core-i9-11900f.html
+AMD Ryzen 5 Pro 3600,2008.71,6 ,3.6 GHz,2019 ,37.0,https://www.epey.com/islemci/amd-ryzen-5-pro-3600.html
+AMD A12-9800,,4 ,3.8 GHz,2017 ,26.0,https://www.epey.com/islemci/amd-a12-9800.html
+Intel Core i3-9100T,,4 ,3.1 GHz,2019 ,25.0,https://www.epey.com/islemci/intel-core-i3-9100t.html
+AMD A10-7870K,,4 ,3.9 GHz,2015 ,25.0,https://www.epey.com/islemci/amd-a10-7870k.html
+Intel Core i5-9400T,,6 ,1.8 GHz,2019 ,25.0,https://www.epey.com/islemci/intel-core-i5-9400t.html
+AMD A10-9700,,4 ,3.5 GHz,2017 ,25.0,https://www.epey.com/islemci/amd-a10-9700.html
+AMD Athlon Pro 300GE,,2 ,3.4 GHz,2019 ,24.0,https://www.epey.com/islemci/amd-athlon-pro-300ge.html
+AMD A10-7890K,,4 ,4.1 GHz,2016 ,24.0,https://www.epey.com/islemci/amd-a10-7890k.html
+AMD A12-9800E,,4 ,3.1 GHz,2016 ,24.0,https://www.epey.com/islemci/amd-a12-9800e.html
+AMD Athlon X4 880K,,4 ,4 GHz,2016 ,24.0,https://www.epey.com/islemci/amd-athlon-x4-880k.html
+AMD FX-6100,,6 ,3.3 GHz,2011 ,24.0,https://www.epey.com/islemci/amd-fx-6100.html
+AMD A10-9700E,,4 ,3 GHz,2016 ,24.0,https://www.epey.com/islemci/amd-a10-9700e.html
+AMD Athlon X4 870K,,4 ,3.9 GHz,2016 ,24.0,https://www.epey.com/islemci/amd-athlon-x4-870k.html
+AMD A10-7860K,,4 ,3.6 GHz,2016 ,23.0,https://www.epey.com/islemci/amd-a10-7860k.html
+AMD A8-7650K,,4 ,3.3 GHz,2015 ,23.0,https://www.epey.com/islemci/amd-a8-7650k.html
+AMD FX-6300,,6 ,3.5 GHz,2012 ,23.0,https://www.epey.com/islemci/amd-fx-6300.html
+Intel Core i5-7400T,,4 ,2.4 GHz,2017 ,23.0,https://www.epey.com/islemci/intel-core-i5-7400t.html
+AMD A10-7800,,4 ,3.5 GHz,2014 ,23.0,https://www.epey.com/islemci/amd-a10-7800.html
+Intel Core i7-2600K,,4 ,3.4 GHz,2011 ,23.0,https://www.epey.com/islemci/intel-core-i7-2600k.html
+AMD A6-9500,,2 ,3.5 GHz,2017 ,22.0,https://www.epey.com/islemci/amd-a6-9500.html
+Intel Core i5-3550,,4 ,3.3 GHz,2012 ,22.0,https://www.epey.com/islemci/intel-core-i5-3550.html
+AMD FX-4300,,4 ,3.8 GHz,2012 ,22.0,https://www.epey.com/islemci/amd-fx-4300.html
+AMD Athlon X4 950,,4 ,3.5 GHz,2017 ,22.0,https://www.epey.com/islemci/amd-athlon-x4-950.html
+Intel Core i5-4690,,4 ,3.5 GHz,2014 ,22.0,https://www.epey.com/islemci/intel-core-i5-4690.html
+Intel Core i3-8350K,,4 ,4 GHz,2017 ,22.0,https://www.epey.com/islemci/intel-core-i3-8350k.html
+Intel Core i5-3570S,,4 ,3.1 GHz,2012 ,22.0,https://www.epey.com/islemci/intel-core-i5-3570s.html
+Intel Core i3-8300,,4 ,3.7 GHz,2018 ,22.0,https://www.epey.com/islemci/intel-core-i3-8300.html
+Intel Core i5-3570,,4 ,3.4 GHz,2012 ,22.0,https://www.epey.com/islemci/intel-core-i5-3570.html
+AMD FX-4320,,4 ,4 GHz,2016 ,22.0,https://www.epey.com/islemci/amd-fx-4320.html
+AMD Athlon X4 845,,4 ,3.5 GHz,2016 ,22.0,https://www.epey.com/islemci/amd-athlon-x4-845.html
+AMD A6-6400K,,2 ,3.9 GHz,2013 ,22.0,https://www.epey.com/islemci/amd-a6-6400k.html
+Intel Core i5-6400T,,4 ,2.2 GHz,2015 ,22.0,https://www.epey.com/islemci/intel-core-i5-6400t.html
+Intel Celeron G3950,,2 ,3 GHz,2017 ,17.0,https://www.epey.com/islemci/intel-celeron-g3950.html
+Intel Celeron G3930TE,,2 ,2.7 GHz,2017 ,17.0,https://www.epey.com/islemci/intel-celeron-g3930te.html
+Intel Celeron G3900,,2 ,2.8 GHz,2015 ,16.0,https://www.epey.com/islemci/intel-celeron-g3900.html
+Intel Celeron G3930T,,2 ,2.7 GHz,2017 ,16.0,https://www.epey.com/islemci/intel-celeron-g3930t.html
+Intel Pentium G4500T,,2 ,3 GHz,2015 ,16.0,https://www.epey.com/islemci/intel-pentium-g4500t.html
+Intel Core i3-3250,,2 ,3.5 GHz,2013 ,15.0,https://www.epey.com/islemci/intel-core-i3-3250.html
+Intel Pentium G3250,,2 ,3.2 GHz,2014 ,15.0,https://www.epey.com/islemci/intel-pentium-g3250.html
+Intel Core i3-3210,,2 ,3.2 GHz,2013 ,14.0,https://www.epey.com/islemci/intel-core-i3-3210.html
+Intel Pentium G2140,,2 ,3.3 GHz,2013 ,14.0,https://www.epey.com/islemci/intel-pentium-g2140.html
+Intel Core 2 Duo E8600,,2 ,3.33 GHz,2008 ,14.0,https://www.epey.com/islemci/intel-core-2-duo-e8600.html
+Intel Core i3-2130,,2 ,3.4 GHz,2013 ,14.0,https://www.epey.com/islemci/intel-core-i3-2130.html
+Intel Core i3-550,,2 ,3.2 GHz,2010 ,14.0,https://www.epey.com/islemci/intel-core-i3-550.html
+Intel Core 2 Duo E8500,,2 ,3.16 GHz,2008 ,14.0,https://www.epey.com/islemci/intel-core-2-duo-e8500.html
+Intel Core 2 Duo E8400,,2 ,3 GHz,2008 ,14.0,https://www.epey.com/islemci/intel-core-2-duo-e8400.html
+Intel Celeron G1820T,,2 ,2.4 GHz,2014 ,13.0,https://www.epey.com/islemci/intel-celeron-g1820t.html
+Intel Celeron G1630,,2 ,2.8 GHz,2013 ,13.0,https://www.epey.com/islemci/intel-celeron-g1630.html
+AMD Athlon II X4 605e,,4 ,2.3 GHz,2009 ,13.0,https://www.epey.com/islemci/amd-athlon-ii-x4-605e.html
+Intel Pentium G2020T,,2 ,2.5 GHz,2013 ,13.0,https://www.epey.com/islemci/intel-pentium-g2020t.html
+AMD Phenom II X4 955 (95W),,4 ,3.2 GHz,2009 ,13.0,https://www.epey.com/islemci/amd-phenom-ii-x4-955-95w.html
+Intel Celeron E3300,,2 ,2.5 GHz,2009 ,10.0,https://www.epey.com/islemci/intel-celeron-e3300.html
+AMD A6-9500E,,2 ,3 GHz,2017 ,21.0,https://www.epey.com/islemci/amd-a6-9500e.html
+Intel Core i5-2500,,4 ,3.3 GHz,2011 ,21.0,https://www.epey.com/islemci/intel-core-i5-2500.html
+Intel Core i5-4590S,,4 ,3 GHz,2014 ,21.0,https://www.epey.com/islemci/intel-core-i5-4590s.html
+Intel Core i3-7350K,,2 ,4.2 GHz,2017 ,21.0,https://www.epey.com/islemci/intel-core-i3-7350k.html
+Intel Core i5-3330,,4 ,3 GHz,2012 ,21.0,https://www.epey.com/islemci/intel-core-i5-3330.html
+Intel Core i5-2500S,,4 ,2.7 GHz,2011 ,20.0,https://www.epey.com/islemci/intel-core-i5-2500s.html
+Intel Core i5-2320,,4 ,3 GHz,2013 ,20.0,https://www.epey.com/islemci/intel-core-i5-2320.html
+Intel Core i7-960,,4 ,3.2 GHz,2009 ,20.0,https://www.epey.com/islemci/intel-core-i7-960.html
+Intel Core i3-7320,,2 ,4.1 GHz,2017 ,20.0,https://www.epey.com/islemci/intel-core-i3-7320.html
+Intel Core i3-7300,,2 ,4 GHz,2017 ,20.0,https://www.epey.com/islemci/intel-core-i3-7300.html
+Intel Pentium Gold G5620,,2 ,4 GHz,2019 ,20.0,https://www.epey.com/islemci/intel-pentium-gold-g5620.html
+Intel Pentium Gold G5600F,,2 ,3.9 GHz,2019 ,19.0,https://www.epey.com/islemci/intel-pentium-gold-g5600f.html
+Intel Pentium Gold G5600,,2 ,3.9 GHz,2018 ,19.0,https://www.epey.com/islemci/intel-pentium-gold-g5600.html
+AMD Athlon 240GE,,2 ,3.5 GHz,2018 ,19.0,https://www.epey.com/islemci/amd-athlon-240ge.html
+Intel Pentium Gold G5420,,2 ,3.8 GHz,2019 ,19.0,https://www.epey.com/islemci/intel-pentium-gold-g5420.html
+AMD Athlon 220GE,,2 ,3.4 GHz,2018 ,19.0,https://www.epey.com/islemci/amd-athlon-220ge.html
+Intel Pentium Gold G5500,,2 ,3.8 GHz,2018 ,19.0,https://www.epey.com/islemci/intel-pentium-gold-g5500.html
+Intel Core i3-6320,,2 ,3.9 GHz,2015 ,19.0,https://www.epey.com/islemci/intel-core-i3-6320.html
+AMD A4-5300,,2 ,3.4 GHz,2012 ,19.0,https://www.epey.com/islemci/amd-a4-5300.html
+Intel Pentium Gold G5400,,2 ,3.7 GHz,2018 ,19.0,https://www.epey.com/islemci/intel-pentium-gold-g5400.html
+AMD Athlon 200GE,,2 ,3.2 GHz,2018 ,19.0,https://www.epey.com/islemci/amd-athlon-200ge.html
+Intel Pentium G4600,,2 ,3.6 GHz,2017 ,19.0,https://www.epey.com/islemci/intel-pentium-g4600.html
+Intel Pentium G4560,,2 ,3.5 GHz,2017 ,19.0,https://www.epey.com/islemci/intel-pentium-g4560.html
+Intel Core i3-6098P,,2 ,3.6 GHz,2015 ,18.0,https://www.epey.com/islemci/intel-core-i3-6098p.html
+Intel Core i3-6300,,2 ,3.8 GHz,2015 ,18.0,https://www.epey.com/islemci/intel-core-i3-6300.html
+Intel Core i3-6100T,,2 ,3.2 GHz,2015 ,18.0,https://www.epey.com/islemci/intel-core-i3-6100t.html
+Intel Pentium G4560T,,2 ,2.9 GHz,2017 ,18.0,https://www.epey.com/islemci/intel-pentium-g4560t.html
+Intel Pentium G4500,,2 ,3.5 GHz,2015 ,17.0,https://www.epey.com/islemci/intel-pentium-g4500.html
+Intel Celeron G4920,,2 ,3.2 GHz,2018 ,17.0,https://www.epey.com/islemci/intel-celeron-g4920.html
+Intel Celeron G4900,,2 ,3.1 GHz,2018 ,17.0,https://www.epey.com/islemci/intel-celeron-g4900-lga1151p.html
+Intel Pentium G4520,,2 ,3.6 GHz,2015 ,17.0,https://www.epey.com/islemci/intel-pentium-g4520.html
