@@ -8,3 +8,7 @@
     
 ## Usage
     epey-scraper
+
+## Demo
+
+![Demo](https://github.com/cagriozkurt/epey-scaper/raw/main/demo.gif)
