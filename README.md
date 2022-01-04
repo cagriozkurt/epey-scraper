@@ -1,4 +1,4 @@
-# epey-scaper
+# epey-scraper
  A simple script to fetch product information from the Turkish e-commerce site epey.com
 
 ## Installation
