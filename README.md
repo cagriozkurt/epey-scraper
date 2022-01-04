@@ -2,7 +2,7 @@
  A simple script to fetch product information from the Turkish e-commerce site epey.com
 
 ## Installation
-    git clone https://github.com/cagriozkurt/epey-scaper.git
+    git clone https://github.com/cagriozkurt/epey-scraper.git
     cd epey-scaper
     pip install .
     
